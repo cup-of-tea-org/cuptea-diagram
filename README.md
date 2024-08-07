@@ -1,8 +1,8 @@
 # cuptea
 cuptea architecture && util
+![스크린샷 2024-08-07 오후 10 15 19](https://github.com/user-attachments/assets/11b4ea67-b80c-4b98-9ba0-3c2d2bb24e6b)
 
 
-![스크린샷 2024-08-07 오후 10 10 57](https://github.com/user-attachments/assets/008282eb-75bb-487f-93cc-0403ef5f954c)
 
 ## ERD
 
