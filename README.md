@@ -1,7 +1,8 @@
 # cuptea
-cuptea infra && util
+cuptea architecture && util
 
-![스크린샷 2024-05-03 오후 10 52 38](https://github.com/cup-of-tea-org/cuptea-util/assets/121741140/10b3df5b-0251-4c0e-a0f3-2aaa64adba9c)
+
+![스크린샷 2024-08-07 오후 10 10 57](https://github.com/user-attachments/assets/008282eb-75bb-487f-93cc-0403ef5f954c)
 
 ## ERD
 
